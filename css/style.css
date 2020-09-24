@@ -1,0 +1,16 @@
+.white1 {width: 175px;height: 200px;background-color: #efeeee; left: 400px;
+	position: absolute;}
+.white2 {width: 175px;height: 285px;background-color: #efeeee; left: 400px; top: 230px;
+	position: absolute;}
+.white3 {width: 520px;height: 200px;background-color: #efeeee; left: 600px; top: 540px;
+	position: absolute;}
+.white4 {width: 60px;height: 85px;background-color: #efeeee; left: 1140px; top: 540px;
+	position: absolute;}
+.blue {width: 175px;height: 200px;background-color: blue; left: 400px; top: 540px;
+	position: absolute;}
+.black {width: 800px;height: 740px;background-color: black; left: 400px; top: 0px;
+	position: absolute;}
+.red {width: 600px;height: 515px;background-color: red; left: 600px; top: 0px;
+	position: absolute;}
+.yellow {width: 60px;height: 85px;background-color: yellow; left: 1140px; top: 655px;
+	position: absolute;}
